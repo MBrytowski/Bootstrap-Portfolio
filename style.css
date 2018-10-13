@@ -13,6 +13,10 @@ body {
     height: 100%;
 }
 
+.h2 {
+    text-align: center;
+}
+
 .list-group {
     width: 40%;
 }
