@@ -17,6 +17,22 @@ body {
     width: 40%;
 }
 
+.profile {
+    height: 250px;
+    width: 250px;
+    float: left;
+    padding: 5px;
+}
+
+.row {
+    padding: 50px;
+    margin: 10px;
+}
+
+.card {
+    margin: 10px;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
